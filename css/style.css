@@ -1,0 +1,21 @@
+*{
+    font-family: Helvetica, Arial, sans-serif;
+    color: rgb(231, 224, 224);
+}
+
+body {
+    background-color: rgb(41, 37, 37);
+}
+
+img {
+    width: 300x;
+}
+
+.recipe {
+    font-size: large;
+    font-style: italic;
+}
+
+#intro {
+    font-size: large;
+}
