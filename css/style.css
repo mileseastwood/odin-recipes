@@ -8,7 +8,7 @@ body {
 }
 
 img {
-    width: 300x;
+    width: 300px;
 }
 
 .recipe {
@@ -16,6 +16,6 @@ img {
     font-style: italic;
 }
 
-#intro {
+#intro, .desc {
     font-size: large;
 }
